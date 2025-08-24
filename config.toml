@@ -1,0 +1,21 @@
+# The URL the site will be built for
+base_url = "https://mingablick.de"
+
+# Whether to automatically compile all Sass files in the sass directory
+compile_sass = true
+
+# Whether to build a search index to be used later on by a JavaScript library
+build_search_index = true
+
+theme = "boring"
+
+[markdown]
+# Whether to do syntax highlighting
+# Theme can be customised by setting the `highlight_theme` variable to a theme supported by Zola
+highlight_code = false
+
+[extra]
+homepage_title = "Mingablick"
+homepage_subtitle = "Mei Blick auf Minga und die Welt"
+homepage_img_url = "image-dark.jpg"
+google_analytics_measurement_id = "123"
