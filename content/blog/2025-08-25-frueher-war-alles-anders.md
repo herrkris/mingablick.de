@@ -1,6 +1,5 @@
 ---
 title: Früher war alles ... anders?
-date: 2025-08-25
 ---
 
 Es gab für mich diese Zeit, Ende der 90er, Anfang der 2000er Jahre, da sind meine Erinnerungen ans Internet mit Unbeschwertheit und Freiheit verknüpft. Meine Eltern waren ziemlich planlos, was „das Internet“ anging. Sie, naja, meine Mutter, war mehr davon genervt, dass die Telefonleitung oft belegt war. Wir haben uns über die langen Einwahlzeiten, wenn die Leitung wieder frei war, geärgert. Was sich schlagartig mit ISDN änderte und sich durch DSL auf unglaubliche 768 kbit/s beschleunigte. Um die Zeit rum fing ich an, Webseiten zu programmieren. Tauschte mich in Foren mit Gleichgesinnten aus, versuchte, zu verstehen, wie Gästebücher programmiert wurden. Eine Bildergalerie. Ein Newsbereich. Und auf einmal war die eigene Webseite fertig. Andere Menschen konnten Grüße im Gästebuch dalassen und ich selbst konnte jede „Neuigkeit“, war sie noch so kurz, auf meine Homepage stellen.
